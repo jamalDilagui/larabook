@@ -1,0 +1,23 @@
+.row .profil {
+  -webkit-box-shadow: 0 0 30px;
+          box-shadow: 0 0 30px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.row .profil .image img, .row .profil .image span, .row .profil .image .poste, .row .profil .image .abonne, .row .profil .image .abonnement, .row .profil .abonement img, .row .profil .abonement span, .row .profil .abonement .poste, .row .profil .abonement .abonne, .row .profil .abonement .abonnement {
+  margin-right: 30px;
+}
+
+.row .profil .abonement, .row .profil .status {
+  margin-top: 10px;
+}
+
+.row .profil .image .info {
+  margin-top: 21px;
+}
+
+.row .profil .modifier {
+  margin-bottom: 15px;
+}
+/*# sourceMappingURL=style.css.map */
